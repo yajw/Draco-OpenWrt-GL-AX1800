@@ -53,10 +53,10 @@ module.exports = [
     name: 'luci-app-xlnetacc',
     desc: '迅雷快鸟',
   },
-//   {
-//     name: 'luci-app-appfilter',
-//     desc: '应用过滤'
-//   },
+  {
+    name: 'luci-app-oaf',
+    desc: '应用过滤'
+  },
   {
     name: 'luci-app-cpufreq',
     desc: 'CPU 性能优化调节',
