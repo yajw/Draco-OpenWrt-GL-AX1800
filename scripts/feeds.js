@@ -9,7 +9,7 @@ module.exports = [
   {
     name: 'open_app_filter',
     uri: 'https://github.com/destan19/OpenAppFilter.git',
-    branch: 'oaf-5.1.0',
+    branch: 'master',
   },
   {
     name: 'kenzok8_packages',
