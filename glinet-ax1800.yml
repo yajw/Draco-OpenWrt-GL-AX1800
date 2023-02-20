@@ -27,6 +27,10 @@ feeds:
     uri: https://github.com/kenzok8/small-package.git
     branch: main
     revision: c3024edc9bb1f4c089b4d1a0b3ff6eb14670373d
+  - name: open_app_filter
+    uri: https://github.com/destan19/OpenAppFilter.git
+    branch: master
+    revision: 2e8dd081cbc2782bd6305b10dc622cce4e15bba7
 include: []
 packages:
   - wireless-regdb
